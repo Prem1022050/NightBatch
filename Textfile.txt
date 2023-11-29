@@ -3,5 +3,10 @@ Hello from scope
 add
 how are you?
 
+
 edit from prem
+
+fdf
+
 how are you?hi
+This is a cloned file.
